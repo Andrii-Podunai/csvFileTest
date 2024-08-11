@@ -1,0 +1,1864 @@
+{
+  "bichon frise": {
+    "Dog Individual Spayed Female": 39,
+    "Dog Senior Citizen or Disability Neutered Male": 43,
+    "Dog Senior Citizen or Disability Spayed Female": 35,
+    "Dog Individual Male": 12,
+    "Dog Individual Female": 4,
+    "Dog Individual Neutered Male": 48,
+    "Dog Senior Citizen or Disability Female": 6,
+    "Dog Senior Citizen or Disability Male": 3
+  },
+  "chihuahua": {
+    "Dog Senior Citizen or Disability Spayed Female": 103,
+    "Dog Individual Spayed Female": 136,
+    "Dog Individual Neutered Male": 133,
+    "Dog Senior Citizen or Disability Female": 35,
+    "Dog Individual Female": 56,
+    "Dog Senior Citizen or Disability Neutered Male": 72,
+    "Dog Individual Male": 56,
+    "Dog Senior Citizen or Disability Male": 34,
+    "Dog Senior Citizen or Disability Duplicate": 1
+  },
+  "lab mix": {
+    "Dog Individual Spayed Female": 436,
+    "Dog Individual Neutered Male": 423,
+    "Dog Senior Citizen or Disability Neutered Male": 84,
+    "Dog Individual Male": 71,
+    "Dog Senior Citizen or Disability Spayed Female": 100,
+    "Dog Senior Citizen or Disability Female": 12,
+    "Dog Senior Citizen or Disability Male": 14,
+    "Dog Individual Female": 43,
+    "Dog Individual License Duplicate": 3,
+    "Dog Senior Citizen or Disability - FREE": 3,
+    "Dog Senior Citizen or Disability Duplicate": 3,
+    "Dog Individual License - FREE": 2
+  },
+  "dachshund": {
+    "Dog Individual Male": 29,
+    "Dog Individual Spayed Female": 142,
+    "Dog Senior Citizen or Disability Spayed Female": 52,
+    "Dog Senior Citizen or Disability Female": 10,
+    "Dog Senior Citizen or Disability Male": 15,
+    "Dog Individual Female": 27,
+    "Dog Individual Neutered Male": 113,
+    "Dog Senior Citizen or Disability Neutered Male": 56
+  },
+  "terrier": {
+    "Dog Senior Citizen or Disability Neutered Male": 16,
+    "Dog Individual Female": 2,
+    "Dog Individual Spayed Female": 18,
+    "Dog Senior Citizen or Disability Spayed Female": 16,
+    "Dog Individual Neutered Male": 12,
+    "Dog Senior Citizen or Disability Male": 2,
+    "Dog Senior Citizen or Disability Female": 3,
+    "Dog Individual Male": 3
+  },
+  "ger shepherd": {
+    "Dog Individual Spayed Female": 219,
+    "Dog Senior Citizen or Disability Male": 38,
+    "Dog Senior Citizen or Disability Neutered Male": 54,
+    "Dog Senior Citizen or Disability Spayed Female": 56,
+    "Dog Individual Female": 61,
+    "Dog Individual Neutered Male": 165,
+    "Dog Individual License - FREE": 10,
+    "Dog Individual Male": 123,
+    "Dog Senior Citizen or Disability Female": 15,
+    "Dog Individual License Duplicate": 7
+  },
+  "schnoodle": {
+    "Dog Individual Spayed Female": 15,
+    "Dog Individual Neutered Male": 21,
+    "Dog Senior Citizen or Disability Neutered Male": 7,
+    "Dog Senior Citizen or Disability Spayed Female": 3,
+    "Dog Individual Male": 2,
+    "Dog Individual Female": 1,
+    "Dog Senior Citizen or Disability Female": 1
+  },
+  "labrador retriever": {
+    "Dog Senior Citizen or Disability Neutered Male": 98,
+    "Dog Senior Citizen or Disability Male": 25,
+    "Dog Senior Citizen or Disability Duplicate": 1,
+    "Dog Individual Neutered Male": 412,
+    "Dog Individual Spayed Female": 445,
+    "Dog Senior Citizen or Disability Spayed Female": 133,
+    "Dog Individual Female": 81,
+    "Dog Individual Male": 146,
+    "Dog Senior Citizen or Disability Female": 21,
+    "Dog Individual License Duplicate": 4,
+    "Dog Senior Citizen or Disability - FREE": 5,
+    "Dog Individual License - FREE": 8
+  },
+  "shih tzu": {
+    "Dog Individual Neutered Male": 156,
+    "Dog Individual Spayed Female": 157,
+    "Dog Senior Citizen or Disability Spayed Female": 112,
+    "Dog Senior Citizen or Disability Female": 14,
+    "Dog Senior Citizen or Disability Neutered Male": 110,
+    "Dog Senior Citizen or Disability Male": 17,
+    "Dog Individual Male": 40,
+    "Dog Individual Female": 29,
+    "Dog Individual License Duplicate": 1
+  },
+  "old eng sheepdog": {
+    "Dog Senior Citizen or Disability Neutered Male": 5,
+    "Dog Individual Spayed Female": 12,
+    "Dog Senior Citizen or Disability Spayed Female": 3,
+    "Dog Individual Neutered Male": 6,
+    "Dog Individual Male": 7,
+    "Dog Senior Citizen or Disability Male": 3,
+    "Dog Individual Female": 2
+  },
+  "maltese": {
+    "Dog Senior Citizen or Disability Neutered Male": 48,
+    "Dog Individual Neutered Male": 53,
+    "Dog Individual Male": 26,
+    "Dog Individual Female": 33,
+    "Dog Individual Spayed Female": 55,
+    "Dog Senior Citizen or Disability Spayed Female": 33,
+    "Dog Senior Citizen or Disability Male": 10,
+    "Dog Senior Citizen or Disability Female": 13
+  },
+  "mixed": {
+    "Dog Senior Citizen or Disability Spayed Female": 326,
+    "Dog Individual Spayed Female": 726,
+    "Dog Individual Neutered Male": 666,
+    "Dog Senior Citizen or Disability Neutered Male": 253,
+    "Dog Individual Female": 99,
+    "Dog Senior Citizen or Disability Male": 39,
+    "Dog Senior Citizen or Disability Female": 46,
+    "Dog Individual Male": 139,
+    "Dog Senior Citizen or Disability Duplicate": 3,
+    "Dog Inter County Transfer": 1,
+    "Dog Inter County Transfer - Senior": 2
+  },
+  "chihuahua mix": {
+    "Dog Senior Citizen or Disability Spayed Female": 29,
+    "Dog Individual Neutered Male": 60,
+    "Dog Individual Spayed Female": 63,
+    "Dog Senior Citizen or Disability Neutered Male": 24,
+    "Dog Individual Female": 11,
+    "Dog Individual Male": 9,
+    "Dog Senior Citizen or Disability Male": 3,
+    "Dog Senior Citizen or Disability Female": 4,
+    "Dog Individual License Duplicate": 1
+  },
+  "boxer mix": {
+    "Dog Individual Neutered Male": 60,
+    "Dog Senior Citizen or Disability Male": 2,
+    "Dog Senior Citizen or Disability Spayed Female": 14,
+    "Dog Individual Spayed Female": 78,
+    "Dog Senior Citizen or Disability Neutered Male": 10,
+    "Dog Individual Female": 11,
+    "Dog Individual Male": 13,
+    "Dog Senior Citizen or Disability Female": 3,
+    "Dog Individual License Duplicate": 1
+  },
+  "ger shepherd mix": {
+    "Dog Individual Neutered Male": 102,
+    "Dog Senior Citizen or Disability Spayed Female": 25,
+    "Dog Individual Spayed Female": 121,
+    "Dog Individual Male": 24,
+    "Dog Senior Citizen or Disability Neutered Male": 22,
+    "Dog Senior Citizen or Disability Male": 4,
+    "Dog Individual Female": 13,
+    "Dog Lifetime Spayed Female": 1,
+    "Dog Senior Citizen or Disability Female": 2,
+    "Dog Inter County Transfer - Senior": 1
+  },
+  "am pit bull terrier": {
+    "Dog Senior Citizen or Disability Spayed Female": 33,
+    "Dog Individual Neutered Male": 129,
+    "Dog Individual Female": 107,
+    "Dog Individual Spayed Female": 152,
+    "Dog Individual Male": 118,
+    "Dog Senior Citizen or Disability Female": 10,
+    "Dog Senior Citizen or Disability Neutered Male": 27,
+    "Dog Senior Citizen or Disability Duplicate": 3,
+    "Dog Senior Citizen or Disability Male": 15,
+    "Dog Individual License Duplicate": 1
+  },
+  "cocker spaniel": {
+    "Dog Individual Neutered Male": 58,
+    "Dog Individual Spayed Female": 58,
+    "Dog Senior Citizen or Disability Spayed Female": 37,
+    "Dog Senior Citizen or Disability Neutered Male": 39,
+    "Dog Individual License Duplicate": 1,
+    "Dog Senior Citizen or Disability Male": 7,
+    "Dog Individual Male": 9,
+    "Dog Individual Female": 7,
+    "Dog Senior Citizen or Disability Female": 6,
+    "Dog Individual License - FREE": 1
+  },
+  "eng springer spanie": {
+    "Dog Individual Neutered Male": 34,
+    "Dog Individual Spayed Female": 30,
+    "Dog Senior Citizen or Disability Spayed Female": 9,
+    "Dog Senior Citizen or Disability Neutered Male": 18,
+    "Dog Senior Citizen or Disability Male": 4,
+    "Dog Senior Citizen or Disability Female": 5,
+    "Dog Individual Male": 6,
+    "Dog Individual Female": 7
+  },
+  "beagle": {
+    "Dog Individual Neutered Male": 161,
+    "Dog Senior Citizen or Disability Spayed Female": 79,
+    "Dog Senior Citizen or Disability Neutered Male": 55,
+    "Dog Senior Citizen or Disability Male": 26,
+    "Dog Individual Spayed Female": 145,
+    "Dog Individual Male": 60,
+    "Dog Individual Female": 48,
+    "Dog Senior Citizen or Disability Female": 15,
+    "Dog Individual License Duplicate": 1
+  },
+  "golden retriever": {
+    "Dog Individual Neutered Male": 204,
+    "Dog Senior Citizen or Disability Neutered Male": 51,
+    "Dog Individual Spayed Female": 204,
+    "Dog Individual License Duplicate": 2,
+    "Dog Senior Citizen or Disability Spayed Female": 64,
+    "Dog Individual Female": 50,
+    "Dog Senior Citizen or Disability Male": 22,
+    "Dog Senior Citizen or Disability Female": 15,
+    "Dog Individual Male": 82
+  },
+  "cocker spaniel mix": {
+    "Dog Individual Spayed Female": 13,
+    "Dog Senior Citizen or Disability Spayed Female": 9,
+    "Dog Senior Citizen or Disability Neutered Male": 4,
+    "Dog Individual Neutered Male": 11,
+    "Dog Senior Citizen or Disability Female": 2,
+    "Dog Individual Female": 2
+  },
+  "w hghlnd wh terrier": {
+    "Dog Senior Citizen or Disability Neutered Male": 19,
+    "Dog Individual Neutered Male": 48,
+    "Dog Senior Citizen or Disability Spayed Female": 16,
+    "Dog Senior Citizen or Disability Male": 2,
+    "Dog Individual Spayed Female": 40,
+    "Dog Individual Male": 9,
+    "Dog Individual Female": 6,
+    "Dog Senior Citizen or Disability Female": 2
+  },
+  "goldendoodle": {
+    "Dog Senior Citizen or Disability Male": 4,
+    "Dog Individual Neutered Male": 85,
+    "Dog Individual Spayed Female": 82,
+    "Dog Senior Citizen or Disability Spayed Female": 21,
+    "Dog Senior Citizen or Disability Neutered Male": 9,
+    "Dog Individual Male": 32,
+    "Dog Individual Female": 10,
+    "Dog Senior Citizen or Disability Female": 2
+  },
+  "lhasa apso": {
+    "Dog Individual Spayed Female": 32,
+    "Dog Senior Citizen or Disability Spayed Female": 19,
+    "Dog Individual Neutered Male": 25,
+    "Dog Senior Citizen or Disability Neutered Male": 18,
+    "Dog Individual Male": 5,
+    "Dog Senior Citizen or Disability Female": 2,
+    "Dog Individual Female": 3,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "parson russell terr": {
+    "Dog Senior Citizen or Disability Spayed Female": 31,
+    "Dog Individual Neutered Male": 50,
+    "Dog Individual Spayed Female": 56,
+    "Dog Senior Citizen or Disability Neutered Male": 15,
+    "Dog Individual Male": 8,
+    "Dog Senior Citizen or Disability Female": 2,
+    "Dog Senior Citizen or Disability Male": 1,
+    "Dog Individual Female": 7,
+    "Dog Individual License Duplicate": 1
+  },
+  "sib husky": {
+    "Dog Individual Male": 23,
+    "Dog Individual Spayed Female": 60,
+    "Dog Senior Citizen or Disability Spayed Female": 13,
+    "Dog Individual Neutered Male": 52,
+    "Dog Senior Citizen or Disability Neutered Male": 10,
+    "Dog Individual Female": 25,
+    "Dog Senior Citizen or Disability Male": 3,
+    "Dog Individual License Duplicate": 2,
+    "Dog Senior Citizen or Disability Female": 1
+  },
+  "bord collie": {
+    "Dog Individual Neutered Male": 45,
+    "Dog Individual Female": 10,
+    "Dog Senior Citizen or Disability Neutered Male": 10,
+    "Dog Individual Spayed Female": 55,
+    "Dog Senior Citizen or Disability Spayed Female": 21,
+    "Dog Individual Male": 11,
+    "Dog Senior Citizen or Disability Male": 3,
+    "Dog Senior Citizen or Disability Female": 2
+  },
+  "brittany spaniel": {
+    "Dog Individual Neutered Male": 17,
+    "Dog Senior Citizen or Disability Neutered Male": 3,
+    "Dog Senior Citizen or Disability Female": 2,
+    "Dog Individual Spayed Female": 20,
+    "Dog Senior Citizen or Disability Spayed Female": 4,
+    "Dog Senior Citizen or Disability Male": 5,
+    "Dog Senior Citizen or Disability Duplicate": 1,
+    "Dog Individual Male": 6,
+    "Dog Individual Female": 7,
+    "Dog Individual License - FREE": 1
+  },
+  "boston terrier": {
+    "Dog Senior Citizen or Disability Male": 5,
+    "Dog Senior Citizen or Disability Spayed Female": 18,
+    "Dog Individual Spayed Female": 68,
+    "Dog Individual Neutered Male": 55,
+    "Dog Individual Male": 13,
+    "Dog Senior Citizen or Disability Neutered Male": 15,
+    "Dog Individual Female": 11,
+    "Dog Senior Citizen or Disability Female": 3
+  },
+  "vizsla": {
+    "Dog Individual Neutered Male": 18,
+    "Dog Senior Citizen or Disability Spayed Female": 10,
+    "Dog Individual Female": 3,
+    "Dog Individual Spayed Female": 22,
+    "Dog Senior Citizen or Disability Neutered Male": 3,
+    "Dog Individual Male": 5,
+    "Dog Senior Citizen or Disability Male": 3
+  },
+  "beagle mix": {
+    "Dog Individual Neutered Male": 125,
+    "Dog Individual Spayed Female": 150,
+    "Dog Senior Citizen or Disability Neutered Male": 25,
+    "Dog Senior Citizen or Disability Spayed Female": 40,
+    "Dog Senior Citizen or Disability Male": 3,
+    "Dog Individual Male": 16,
+    "Dog Senior Citizen or Disability Female": 5,
+    "Dog Individual Female": 10,
+    "Dog Individual License Duplicate": 1
+  },
+  "labradoodle": {
+    "Dog Individual Spayed Female": 45,
+    "Dog Senior Citizen or Disability Spayed Female": 14,
+    "Dog Individual Neutered Male": 59,
+    "Dog Senior Citizen or Disability Neutered Male": 11,
+    "Dog Individual Male": 10,
+    "Dog Individual Female": 7,
+    "Dog Senior Citizen or Disability Female": 1,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "airedale terrier": {
+    "Dog Senior Citizen or Disability Spayed Female": 3,
+    "Dog Individual Neutered Male": 10,
+    "Dog Individual Spayed Female": 11,
+    "Dog Senior Citizen or Disability Neutered Male": 8,
+    "Dog Senior Citizen or Disability Female": 2,
+    "Dog Senior Citizen or Disability Male": 1,
+    "Dog Individual Female": 1
+  },
+  "pekingese": {
+    "Dog Individual Spayed Female": 9,
+    "Dog Individual Neutered Male": 13,
+    "Dog Senior Citizen or Disability Male": 2,
+    "Dog Senior Citizen or Disability Spayed Female": 10,
+    "Dog Senior Citizen or Disability Neutered Male": 10,
+    "Dog Individual Female": 3,
+    "Dog Senior Citizen or Disability Female": 4
+  },
+  "yorkshire terrier": {
+    "Dog Individual Male": 43,
+    "Dog Senior Citizen or Disability Neutered Male": 76,
+    "Dog Individual Spayed Female": 116,
+    "Dog Senior Citizen or Disability Spayed Female": 73,
+    "Dog Senior Citizen or Disability Male": 29,
+    "Dog Individual Neutered Male": 114,
+    "Dog Individual Female": 29,
+    "Dog Senior Citizen or Disability Female": 13,
+    "Dog Senior Citizen or Disability Duplicate": 1,
+    "Dog Lifetime Female": 1
+  },
+  "weimaraner": {
+    "Dog Individual Male": 13,
+    "Dog Individual Spayed Female": 30,
+    "Dog Senior Citizen or Disability Neutered Male": 6,
+    "Dog Individual Neutered Male": 18,
+    "Dog Individual Female": 3,
+    "Dog Senior Citizen or Disability Spayed Female": 9,
+    "Dog Senior Citizen or Disability Duplicate": 1,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "welsh corgi pembrok": {
+    "Dog Senior Citizen or Disability Spayed Female": 4,
+    "Dog Individual Neutered Male": 19,
+    "Dog Senior Citizen or Disability Neutered Male": 6,
+    "Dog Individual Spayed Female": 18,
+    "Dog Individual Female": 1,
+    "Dog Individual Male": 4
+  },
+  "am eskimo dog": {
+    "Dog Senior Citizen or Disability Neutered Male": 10,
+    "Dog Individual Neutered Male": 7,
+    "Dog Individual Spayed Female": 11,
+    "Dog Senior Citizen or Disability Spayed Female": 12,
+    "Dog Individual Male": 2,
+    "Dog Individual Female": 3,
+    "Dog Senior Citizen or Disability Female": 1
+  },
+  "boxer": {
+    "Dog Senior Citizen or Disability Spayed Female": 46,
+    "Dog Individual Neutered Male": 120,
+    "Dog Individual Male": 67,
+    "Dog Individual Spayed Female": 141,
+    "Dog Senior Citizen or Disability Male": 13,
+    "Dog Senior Citizen or Disability Neutered Male": 26,
+    "Dog Individual Female": 25,
+    "Dog Senior Citizen or Disability Female": 7,
+    "Dog Individual License Duplicate": 1,
+    "Dog Inter County Transfer": 1
+  },
+  "cockapoo": {
+    "Dog Individual Spayed Female": 52,
+    "Dog Senior Citizen or Disability Neutered Male": 16,
+    "Dog Senior Citizen or Disability Spayed Female": 14,
+    "Dog Individual Female": 4,
+    "Dog Individual Neutered Male": 45,
+    "Dog Individual Male": 9
+  },
+  "basset hound": {
+    "Dog Senior Citizen or Disability Neutered Male": 7,
+    "Dog Individual Spayed Female": 17,
+    "Dog Individual Neutered Male": 28,
+    "Dog Senior Citizen or Disability Spayed Female": 12,
+    "Dog Individual Female": 5,
+    "Dog Senior Citizen or Disability Female": 2,
+    "Dog Individual Male": 8
+  },
+  "lhasa apso mix": {
+    "Dog Individual Spayed Female": 10,
+    "Dog Senior Citizen or Disability Spayed Female": 3,
+    "Dog Individual Male": 2,
+    "Dog Senior Citizen or Disability Female": 1,
+    "Dog Senior Citizen or Disability Neutered Male": 3,
+    "Dog Individual Neutered Male": 2
+  },
+  "akita": {
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Individual Neutered Male": 10,
+    "Dog Individual Spayed Female": 14,
+    "Dog Individual Male": 2,
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Individual Female": 3,
+    "Dog Senior Citizen or Disability Female": 1
+  },
+  "bord collie mix": {
+    "Dog Individual Spayed Female": 23,
+    "Dog Individual Neutered Male": 25,
+    "Dog Individual Male": 6,
+    "Dog Senior Citizen or Disability Spayed Female": 9,
+    "Dog Individual Female": 7,
+    "Dog Senior Citizen or Disability Neutered Male": 6
+  },
+  "shih tzu mix": {
+    "Dog Senior Citizen or Disability Spayed Female": 19,
+    "Dog Individual Spayed Female": 35,
+    "Dog Individual Neutered Male": 53,
+    "Dog Individual Female": 7,
+    "Dog Senior Citizen or Disability Female": 2,
+    "Dog Senior Citizen or Disability Neutered Male": 7,
+    "Dog Individual Male": 9,
+    "Dog Senior Citizen or Disability Duplicate": 1,
+    "Dog Senior Citizen or Disability Male": 2
+  },
+  "greyhound": {
+    "Dog Individual Neutered Male": 34,
+    "Dog Senior Citizen or Disability Spayed Female": 14,
+    "Dog Individual License Duplicate": 1,
+    "Dog Individual Spayed Female": 30,
+    "Dog Senior Citizen or Disability Neutered Male": 7,
+    "Dog Individual Female": 2,
+    "Dog Individual Male": 1
+  },
+  "welsh corgi cardiga": {
+    "Dog Individual Neutered Male": 10,
+    "Dog Individual Spayed Female": 3,
+    "Dog Senior Citizen or Disability Female": 1,
+    "Dog Senior Citizen or Disability Spayed Female": 4,
+    "Dog Senior Citizen or Disability Neutered Male": 2,
+    "Dog Individual Male": 2
+  },
+  "hound mix": {
+    "Dog Individual Neutered Male": 19,
+    "Dog Senior Citizen or Disability Neutered Male": 6,
+    "Dog Individual Spayed Female": 23,
+    "Dog Senior Citizen or Disability Spayed Female": 6,
+    "Dog Senior Citizen or Disability Male": 1,
+    "Dog Individual Male": 3,
+    "Dog Individual License Duplicate": 1
+  },
+  "eng cocker spaniel": {
+    "Dog Senior Citizen or Disability Female": 7,
+    "Dog Senior Citizen or Disability Neutered Male": 4,
+    "Dog Senior Citizen or Disability Spayed Female": 4,
+    "Dog Senior Citizen or Disability Male": 5,
+    "Dog Individual Neutered Male": 3
+  },
+  "poodle min": {
+    "Dog Senior Citizen or Disability Female": 4,
+    "Dog Senior Citizen or Disability Neutered Male": 10,
+    "Dog Individual Neutered Male": 19,
+    "Dog Individual Spayed Female": 8,
+    "Dog Senior Citizen or Disability Spayed Female": 10,
+    "Dog Senior Citizen or Disability Male": 3,
+    "Dog Individual Female": 4,
+    "Dog Individual Male": 1
+  },
+  "fox terrier wire": {
+    "Dog Senior Citizen or Disability Neutered Male": 3,
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Individual Spayed Female": 4,
+    "Dog Individual Female": 1,
+    "Dog Individual Neutered Male": 1
+  },
+  "doberman pinscher": {
+    "Dog Individual Male": 10,
+    "Dog Individual Neutered Male": 27,
+    "Dog Senior Citizen or Disability Neutered Male": 9,
+    "Dog Individual Spayed Female": 26,
+    "Dog Senior Citizen or Disability Spayed Female": 12,
+    "Dog Senior Citizen or Disability Female": 7,
+    "Dog Individual Female": 6,
+    "Dog Senior Citizen or Disability Male": 3,
+    "Dog Individual License Duplicate": 2
+  },
+  "tree walk coonhound": {
+    "Dog Individual Neutered Male": 5,
+    "Dog Senior Citizen or Disability Female": 2,
+    "Dog Individual Male": 2,
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Individual Spayed Female": 3
+  },
+  "retriever mix": {
+    "Dog Individual Neutered Male": 7,
+    "Dog Individual Spayed Female": 12,
+    "Dog Senior Citizen or Disability Neutered Male": 2,
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Individual Female": 1
+  },
+  "shetland sheepdog": {
+    "Dog Senior Citizen or Disability Neutered Male": 21,
+    "Dog Individual Spayed Female": 51,
+    "Dog Senior Citizen or Disability Spayed Female": 31,
+    "Dog Individual Neutered Male": 40,
+    "Dog Senior Citizen or Disability Male": 11,
+    "Dog Individual Male": 14,
+    "Dog Senior Citizen or Disability Female": 6,
+    "Dog Individual Female": 8
+  },
+  "shiba inu": {
+    "Dog Individual Neutered Male": 12,
+    "Dog Individual Spayed Female": 19,
+    "Dog Senior Citizen or Disability Spayed Female": 5,
+    "Dog Individual Male": 3,
+    "Dog Senior Citizen or Disability Neutered Male": 2,
+    "Dog Individual Female": 1,
+    "Dog Senior Citizen or Disability Female": 1
+  },
+  "collie mix": {
+    "Dog Senior Citizen or Disability Spayed Female": 9,
+    "Dog Individual Spayed Female": 31,
+    "Dog Individual Neutered Male": 28,
+    "Dog Senior Citizen or Disability Neutered Male": 11,
+    "Dog Individual Male": 1,
+    "Dog Senior Citizen or Disability Female": 1,
+    "Dog Individual Female": 2
+  },
+  "doberman mix": {
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Individual Spayed Female": 8,
+    "Dog Individual Neutered Male": 8,
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Senior Citizen or Disability Female": 1,
+    "Dog Individual Male": 1
+  },
+  "french bulldog": {
+    "Dog Individual Spayed Female": 17,
+    "Dog Senior Citizen or Disability Spayed Female": 6,
+    "Dog Individual Neutered Male": 18,
+    "Dog Individual License Duplicate": 2,
+    "Dog Senior Citizen or Disability Neutered Male": 2,
+    "Dog Individual Male": 8,
+    "Dog Senior Citizen or Disability Female": 1,
+    "Dog Individual Female": 2
+  },
+  "shetland sheep mix": {
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Individual Female": 2,
+    "Dog Individual Spayed Female": 4,
+    "Dog Individual Neutered Male": 5,
+    "Dog Senior Citizen or Disability Male": 2,
+    "Dog Senior Citizen or Disability Neutered Male": 6,
+    "Dog Individual Male": 5
+  },
+  "poodle mix": {
+    "Dog Individual Neutered Male": 43,
+    "Dog Senior Citizen or Disability Spayed Female": 16,
+    "Dog Individual Male": 13,
+    "Dog Individual Spayed Female": 45,
+    "Dog Senior Citizen or Disability Neutered Male": 22,
+    "Dog Senior Citizen or Disability Female": 3,
+    "Dog Senior Citizen or Disability Male": 4,
+    "Dog Individual Female": 8
+  },
+  "pug": {
+    "Dog Individual Spayed Female": 77,
+    "Dog Senior Citizen or Disability Neutered Male": 19,
+    "Dog Senior Citizen or Disability Spayed Female": 22,
+    "Dog Individual Neutered Male": 67,
+    "Dog Individual Male": 24,
+    "Dog Individual Female": 15,
+    "Dog Senior Citizen or Disability Female": 8,
+    "Dog Senior Citizen or Disability Male": 6,
+    "Dog Individual License - FREE": 1
+  },
+  "pomeranian": {
+    "Dog Senior Citizen or Disability Neutered Male": 37,
+    "Dog Individual Neutered Male": 62,
+    "Dog Individual Male": 30,
+    "Dog Senior Citizen or Disability Spayed Female": 35,
+    "Dog Individual Spayed Female": 53,
+    "Dog Individual Female": 18,
+    "Dog Individual License - FREE": 1,
+    "Dog Senior Citizen or Disability Male": 6,
+    "Dog Senior Citizen or Disability Female": 10
+  },
+  "schnauzer min": {
+    "Dog Senior Citizen or Disability Neutered Male": 30,
+    "Dog Individual Neutered Male": 37,
+    "Dog Senior Citizen or Disability Spayed Female": 29,
+    "Dog Individual Spayed Female": 39,
+    "Dog Senior Citizen or Disability Male": 9,
+    "Dog Individual Female": 6,
+    "Dog Individual Male": 16,
+    "Dog Senior Citizen or Disability Female": 1
+  },
+  "cav king char spani": {
+    "Dog Senior Citizen or Disability Spayed Female": 23,
+    "Dog Individual Neutered Male": 29,
+    "Dog Individual Spayed Female": 36,
+    "Dog Senior Citizen or Disability Neutered Male": 22,
+    "Dog Senior Citizen or Disability Male": 5,
+    "Dog Individual Male": 5,
+    "Dog Senior Citizen or Disability Female": 3,
+    "Dog Individual Female": 4
+  },
+  "rat terrier": {
+    "Dog Individual Neutered Male": 15,
+    "Dog Individual Spayed Female": 12,
+    "Dog Senior Citizen or Disability Spayed Female": 11,
+    "Dog Senior Citizen or Disability Neutered Male": 7,
+    "Dog Senior Citizen or Disability Male": 2,
+    "Dog Individual Male": 4
+  },
+  "sib husky mix": {
+    "Dog Senior Citizen or Disability Spayed Female": 3,
+    "Dog Individual Spayed Female": 22,
+    "Dog Individual Neutered Male": 23,
+    "Dog Senior Citizen or Disability Neutered Male": 4,
+    "Dog Individual Male": 3,
+    "Dog Senior Citizen or Disability Female": 2,
+    "Dog Individual Female": 6,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "yorkshire terr mix": {
+    "Dog Senior Citizen or Disability Neutered Male": 28,
+    "Dog Senior Citizen or Disability Male": 8,
+    "Dog Individual Neutered Male": 79,
+    "Dog Individual Spayed Female": 54,
+    "Dog Senior Citizen or Disability Spayed Female": 22,
+    "Dog Individual Male": 18,
+    "Dog Senior Citizen or Disability Duplicate": 1,
+    "Dog Senior Citizen or Disability Female": 5,
+    "Dog Individual Female": 12,
+    "Dog Inter County Transfer - Senior": 1
+  },
+  "st bernard": {
+    "Dog Individual Spayed Female": 18,
+    "Dog Senior Citizen or Disability Spayed Female": 8,
+    "Dog Individual Male": 11,
+    "Dog Senior Citizen or Disability Female": 3,
+    "Dog Senior Citizen or Disability Neutered Male": 4,
+    "Dog Individual Neutered Male": 18,
+    "Dog Individual Female": 4,
+    "Dog Senior Citizen or Disability Male": 2
+  },
+  "havanese": {
+    "Dog Senior Citizen or Disability Neutered Male": 13,
+    "Dog Individual Neutered Male": 50,
+    "Dog Individual Spayed Female": 14,
+    "Dog Senior Citizen or Disability Spayed Female": 13,
+    "Dog Senior Citizen or Disability Male": 4,
+    "Dog Senior Citizen or Disability Female": 2,
+    "Dog Individual Male": 9,
+    "Dog Individual Female": 4
+  },
+  "puli": {
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Senior Citizen or Disability Neutered Male": 1
+  },
+  "brussels griffon": {
+    "Dog Senior Citizen or Disability Neutered Male": 4,
+    "Dog Individual Male": 3,
+    "Dog Senior Citizen or Disability Female": 1,
+    "Dog Senior Citizen or Disability Spayed Female": 3,
+    "Dog Individual Spayed Female": 3,
+    "Dog Individual Neutered Male": 2
+  },
+  "terrier mix": {
+    "Dog Senior Citizen or Disability Spayed Female": 42,
+    "Dog Individual Spayed Female": 91,
+    "Dog Senior Citizen or Disability Neutered Male": 24,
+    "Dog Individual Neutered Male": 98,
+    "Dog Senior Citizen or Disability Male": 4,
+    "Dog Individual Female": 6,
+    "Dog Individual Male": 8,
+    "Dog Senior Citizen or Disability Female": 2,
+    "Dog Inter County Transfer": 1
+  },
+  "chow chow mix": {
+    "Dog Individual Spayed Female": 6,
+    "Dog Individual Neutered Male": 8,
+    "Dog Senior Citizen or Disability Neutered Male": 2,
+    "Dog Individual Male": 1,
+    "Dog Senior Citizen or Disability Spayed Female": 1
+  },
+  "puggle": {
+    "Dog Individual Neutered Male": 44,
+    "Dog Senior Citizen or Disability Neutered Male": 4,
+    "Dog Individual Spayed Female": 28,
+    "Dog Individual Male": 11,
+    "Dog Senior Citizen or Disability Spayed Female": 13,
+    "Dog Individual Female": 5,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "eng setter": {
+    "Dog Senior Citizen or Disability Spayed Female": 7,
+    "Dog Individual Spayed Female": 13,
+    "Dog Senior Citizen or Disability Male": 6,
+    "Dog Individual Neutered Male": 9,
+    "Dog Individual Male": 6,
+    "Dog Individual Female": 3
+  },
+  "norw elkhound": {
+    "Dog Individual Spayed Female": 6,
+    "Dog Individual Male": 4,
+    "Dog Individual Neutered Male": 13,
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Individual Female": 3,
+    "Dog Senior Citizen or Disability Female": 1,
+    "Dog Senior Citizen or Disability Neutered Male": 1
+  },
+  "am pitt bull mix": {
+    "Dog Senior Citizen or Disability Spayed Female": 20,
+    "Dog Senior Citizen or Disability Neutered Male": 14,
+    "Dog Senior Citizen or Disability Male": 6,
+    "Dog Individual Spayed Female": 89,
+    "Dog Individual Neutered Male": 74,
+    "Dog Individual Male": 22,
+    "Dog Individual Female": 12,
+    "Dog Senior Citizen or Disability Female": 4
+  },
+  "eng bulldog": {
+    "Dog Individual Male": 27,
+    "Dog Senior Citizen or Disability Female": 9,
+    "Dog Senior Citizen or Disability Male": 3,
+    "Dog Senior Citizen or Disability Spayed Female": 7,
+    "Dog Individual Neutered Male": 45,
+    "Dog Senior Citizen or Disability Neutered Male": 12,
+    "Dog Individual Spayed Female": 36,
+    "Dog Individual Female": 11
+  },
+  "schipperke": {
+    "Dog Senior Citizen or Disability Neutered Male": 3,
+    "Dog Senior Citizen or Disability Spayed Female": 3,
+    "Dog Senior Citizen or Disability Male": 1,
+    "Dog Individual Female": 1
+  },
+  "poodle toy": {
+    "Dog Senior Citizen or Disability Spayed Female": 20,
+    "Dog Individual Neutered Male": 26,
+    "Dog Senior Citizen or Disability Neutered Male": 16,
+    "Dog Individual Spayed Female": 29,
+    "Dog Senior Citizen or Disability Male": 3,
+    "Dog Individual Female": 8,
+    "Dog Senior Citizen or Disability Female": 8,
+    "Dog Individual Male": 7
+  },
+  "collie": {
+    "Dog Individual Spayed Female": 20,
+    "Dog Individual Neutered Male": 21,
+    "Dog Senior Citizen or Disability Spayed Female": 9,
+    "Dog Individual Male": 8,
+    "Dog Senior Citizen or Disability Neutered Male": 10,
+    "Dog Senior Citizen or Disability Male": 4,
+    "Dog Individual Female": 5,
+    "Dog Senior Citizen or Disability Female": 3
+  },
+  "aus cattle dog": {
+    "Dog Individual Male": 4,
+    "Dog Individual Neutered Male": 28,
+    "Dog Senior Citizen or Disability Spayed Female": 6,
+    "Dog Individual Spayed Female": 26,
+    "Dog Individual Female": 3,
+    "Dog Senior Citizen or Disability Neutered Male": 4,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "poodle standard": {
+    "Dog Senior Citizen or Disability Spayed Female": 20,
+    "Dog Individual Spayed Female": 18,
+    "Dog Individual Neutered Male": 27,
+    "Dog Senior Citizen or Disability Neutered Male": 10,
+    "Dog Individual Male": 11,
+    "Dog Senior Citizen or Disability Male": 5,
+    "Dog Individual Female": 3
+  },
+  "ger shorthair point": {
+    "Dog Individual Spayed Female": 29,
+    "Dog Senior Citizen or Disability Male": 4,
+    "Dog Individual Male": 19,
+    "Dog Senior Citizen or Disability Neutered Male": 8,
+    "Dog Individual Neutered Male": 23,
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Individual Female": 9,
+    "Dog Senior Citizen or Disability Female": 5
+  },
+  "shepherd mix": {
+    "Dog Individual Neutered Male": 32,
+    "Dog Senior Citizen or Disability Spayed Female": 10,
+    "Dog Senior Citizen or Disability Neutered Male": 5,
+    "Dog Individual Spayed Female": 17,
+    "Dog Individual Male": 5,
+    "Dog Senior Citizen or Disability Male": 1,
+    "Dog Individual License - FREE": 1
+  },
+  "peekapoo": {
+    "Dog Senior Citizen or Disability Neutered Male": 9,
+    "Dog Senior Citizen or Disability Spayed Female": 13,
+    "Dog Individual Neutered Male": 22,
+    "Dog Individual Spayed Female": 20,
+    "Dog Individual Male": 10,
+    "Dog Individual Female": 2,
+    "Dog Senior Citizen or Disability Male": 2,
+    "Dog Senior Citizen or Disability Female": 2
+  },
+  "blue heeler": {
+    "Dog Senior Citizen or Disability Neutered Male": 2,
+    "Dog Individual Spayed Female": 5,
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Individual Neutered Male": 2,
+    "Dog Individual Male": 2,
+    "Dog Senior Citizen or Disability Female": 1,
+    "Dog Individual Female": 2
+  },
+  "papillon": {
+    "Dog Individual Spayed Female": 20,
+    "Dog Senior Citizen or Disability Male": 3,
+    "Dog Senior Citizen or Disability Spayed Female": 10,
+    "Dog Senior Citizen or Disability Neutered Male": 9,
+    "Dog Individual Neutered Male": 19,
+    "Dog Individual Female": 1,
+    "Dog Individual Male": 3
+  },
+  "aus shepherd": {
+    "Dog Senior Citizen or Disability Spayed Female": 18,
+    "Dog Individual Spayed Female": 46,
+    "Dog Individual Neutered Male": 47,
+    "Dog Senior Citizen or Disability Neutered Male": 13,
+    "Dog Individual Female": 9,
+    "Dog Individual Male": 8,
+    "Dog Senior Citizen or Disability Male": 4,
+    "Dog Senior Citizen or Disability Female": 6
+  },
+  "great dane": {
+    "Dog Individual Spayed Female": 30,
+    "Dog Senior Citizen or Disability Spayed Female": 5,
+    "Dog Senior Citizen or Disability Male": 4,
+    "Dog Individual Female": 10,
+    "Dog Individual Neutered Male": 26,
+    "Dog Individual Male": 16,
+    "Dog Senior Citizen or Disability Neutered Male": 1
+  },
+  "tag": {
+    "Dog Individual Neutered Male": 187,
+    "Dog Senior Citizen or Disability Spayed Female": 58,
+    "Dog Individual Spayed Female": 185,
+    "Dog Senior Citizen or Disability Neutered Male": 54,
+    "Dog Senior Citizen or Disability Male": 7,
+    "Dog Individual Female": 30,
+    "Dog Individual Male": 25,
+    "Dog Senior Citizen or Disability Female": 8
+  },
+  "manchester terrier": {
+    "Dog Individual Male": 2,
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Individual Neutered Male": 3,
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Senior Citizen or Disability Female": 1
+  },
+  "ori pei": {
+    "Dog Individual Spayed Female": 1
+  },
+  "dalmation mix": {
+    "Dog Individual Neutered Male": 3,
+    "Dog Individual Spayed Female": 2
+  },
+  "cairn terrier": {
+    "Dog Individual Neutered Male": 18,
+    "Dog Senior Citizen or Disability Neutered Male": 15,
+    "Dog Individual Spayed Female": 29,
+    "Dog Senior Citizen or Disability Spayed Female": 18,
+    "Dog Senior Citizen or Disability Male": 2,
+    "Dog Individual Male": 2,
+    "Dog Senior Citizen or Disability Female": 2,
+    "Dog Individual Female": 1
+  },
+  "maltese mix": {
+    "Dog Senior Citizen or Disability Spayed Female": 9,
+    "Dog Senior Citizen or Disability Neutered Male": 8,
+    "Dog Individual Spayed Female": 19,
+    "Dog Individual Neutered Male": 18,
+    "Dog Senior Citizen or Disability Male": 2,
+    "Dog Individual Male": 2,
+    "Dog Senior Citizen or Disability Female": 3,
+    "Dog Individual Female": 2
+  },
+  "min pinscher": {
+    "Dog Senior Citizen or Disability Neutered Male": 17,
+    "Dog Individual Neutered Male": 36,
+    "Dog Individual Spayed Female": 31,
+    "Dog Senior Citizen or Disability Spayed Female": 16,
+    "Dog Individual Female": 7,
+    "Dog Individual Male": 10,
+    "Dog Senior Citizen or Disability Male": 4,
+    "Dog Senior Citizen or Disability Female": 2
+  },
+  "samoyed": {
+    "Dog Individual Spayed Female": 3,
+    "Dog Individual Male": 2,
+    "Dog Individual Neutered Male": 1,
+    "Dog Individual Female": 1,
+    "Dog Senior Citizen or Disability Spayed Female": 1
+  },
+  "japanese chin": {
+    "Dog Senior Citizen or Disability Spayed Female": 3,
+    "Dog Senior Citizen or Disability Neutered Male": 2,
+    "Dog Individual Spayed Female": 4,
+    "Dog Individual Neutered Male": 11
+  },
+  "scottish terrier": {
+    "Dog Individual Male": 1,
+    "Dog Senior Citizen or Disability Spayed Female": 9,
+    "Dog Senior Citizen or Disability Neutered Male": 7,
+    "Dog Individual Neutered Male": 6,
+    "Dog Individual Spayed Female": 4,
+    "Dog Senior Citizen or Disability Female": 1,
+    "Dog Individual Female": 2
+  },
+  "whippet": {
+    "Dog Individual Neutered Male": 6,
+    "Dog Senior Citizen or Disability Spayed Female": 4,
+    "Dog Senior Citizen or Disability Neutered Male": 3,
+    "Dog Individual Spayed Female": 7,
+    "Dog Individual Male": 1
+  },
+  "rottweiler": {
+    "Dog Senior Citizen or Disability Male": 10,
+    "Dog Individual Neutered Male": 42,
+    "Dog Individual Spayed Female": 55,
+    "Dog Senior Citizen or Disability Spayed Female": 15,
+    "Dog Senior Citizen or Disability Neutered Male": 6,
+    "Dog Individual License Duplicate": 2,
+    "Dog Individual Female": 24,
+    "Dog Individual Male": 37,
+    "Dog Senior Citizen or Disability Female": 5
+  },
+  "chow chow": {
+    "Dog Senior Citizen or Disability Spayed Female": 9,
+    "Dog Individual Male": 4,
+    "Dog Individual Spayed Female": 9,
+    "Dog Individual Neutered Male": 4,
+    "Dog Senior Citizen or Disability Male": 2,
+    "Dog Individual Female": 1
+  },
+  "bishon frise mix": {
+    "Dog Individual Neutered Male": 29,
+    "Dog Senior Citizen or Disability Spayed Female": 9,
+    "Dog Individual Spayed Female": 20,
+    "Dog Senior Citizen or Disability Neutered Male": 15,
+    "Dog Individual Female": 4,
+    "Dog Individual Male": 5,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "redtick coonhound": {
+    "Dog Individual Male": 2,
+    "Dog Individual Spayed Female": 2,
+    "Dog Individual Neutered Male": 1
+  },
+  "norfolk terrier": {
+    "Dog Individual Spayed Female": 1,
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Individual Neutered Male": 1
+  },
+  "bernese mtn dog": {
+    "Dog Individual Spayed Female": 14,
+    "Dog Individual Female": 4,
+    "Dog Individual Neutered Male": 20,
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Senior Citizen or Disability Female": 1,
+    "Dog Individual Male": 9,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "portugese water dog": {
+    "Dog Individual Spayed Female": 4,
+    "Dog Individual Neutered Male": 4,
+    "Dog Individual Male": 1,
+    "Dog Senior Citizen or Disability Spayed Female": 2
+  },
+  "pomeranian mix": {
+    "Dog Individual Neutered Male": 16,
+    "Dog Individual Spayed Female": 20,
+    "Dog Senior Citizen or Disability Spayed Female": 5,
+    "Dog Senior Citizen or Disability Neutered Male": 6,
+    "Dog Individual Female": 4,
+    "Dog Senior Citizen or Disability Female": 1,
+    "Dog Senior Citizen or Disability Male": 2,
+    "Dog Individual Male": 4,
+    "Dog Inter County Transfer": 1
+  },
+  "golden retriev mix": {
+    "Dog Individual Spayed Female": 16,
+    "Dog Individual Neutered Male": 22,
+    "Dog Individual Male": 4,
+    "Dog Senior Citizen or Disability Spayed Female": 7,
+    "Dog Individual Female": 2,
+    "Dog Senior Citizen or Disability Male": 1,
+    "Dog Senior Citizen or Disability Neutered Male": 4,
+    "Dog Senior Citizen or Disability Female": 2
+  },
+  "am foxhound": {
+    "Dog Individual Spayed Female": 3,
+    "Dog Individual Male": 3,
+    "Dog Individual Neutered Male": 4
+  },
+  "other": {
+    "Dog Senior Citizen or Disability Neutered Male": 13,
+    "Dog Individual Neutered Male": 11,
+    "Dog Individual Spayed Female": 2,
+    "Dog Senior Citizen or Disability Spayed Female": 8,
+    "Dog Individual Male": 1,
+    "Dog Individual Female": 4,
+    "Dog Senior Citizen or Disability Male": 5
+  },
+  "eng pointer": {
+    "Dog Individual Spayed Female": 10,
+    "Dog Individual Neutered Male": 3,
+    "Dog Senior Citizen or Disability Neutered Male": 3,
+    "Dog Senior Citizen or Disability Male": 1,
+    "Dog Senior Citizen or Disability Female": 2,
+    "Dog Individual Female": 2
+  },
+  "mi-ki": {
+    "Dog Individual Spayed Female": 2,
+    "Dog Senior Citizen or Disability Neutered Male": 2,
+    "Dog Individual Neutered Male": 1
+  },
+  "black&tan coonhound": {
+    "Dog Senior Citizen or Disability Neutered Male": 4,
+    "Dog Individual Neutered Male": 4,
+    "Dog Individual Male": 1,
+    "Dog Individual Female": 1,
+    "Dog Individual Spayed Female": 1,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "newfoundland": {
+    "Dog Individual Neutered Male": 16,
+    "Dog Senior Citizen or Disability Spayed Female": 3,
+    "Dog Individual Spayed Female": 12,
+    "Dog Senior Citizen or Disability Neutered Male": 2,
+    "Dog Individual Male": 8,
+    "Dog Senior Citizen or Disability Female": 2,
+    "Dog Senior Citizen or Disability Male": 5
+  },
+  "ches bay retriever": {
+    "Dog Individual Neutered Male": 4,
+    "Dog Individual Spayed Female": 5,
+    "Dog Senior Citizen or Disability Neutered Male": 2,
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Individual Male": 1
+  },
+  "keeshond": {
+    "Dog Senior Citizen or Disability Neutered Male": 2,
+    "Dog Individual Spayed Female": 1,
+    "Dog Individual Neutered Male": 5,
+    "Dog Individual Male": 4,
+    "Dog Senior Citizen or Disability Spayed Female": 3
+  },
+  "blackmouth cur": {
+    "Dog Individual Neutered Male": 2,
+    "Dog Individual Spayed Female": 1
+  },
+  "mountain cur": {
+    "Dog Individual Female": 1,
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Individual Male": 3,
+    "Dog Individual Spayed Female": 2
+  },
+  "italian greyhound": {
+    "Dog Senior Citizen or Disability Neutered Male": 7,
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Individual Spayed Female": 7,
+    "Dog Individual Neutered Male": 5,
+    "Dog Senior Citizen or Disability Male": 2,
+    "Dog Individual Male": 2
+  },
+  "gordon setter": {
+    "Dog Individual Neutered Male": 1,
+    "Dog Senior Citizen or Disability Spayed Female": 1
+  },
+  "am bulldog": {
+    "Dog Individual Male": 17,
+    "Dog Individual Neutered Male": 23,
+    "Dog Individual License Duplicate": 1,
+    "Dog Individual Spayed Female": 21,
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Senior Citizen or Disability Neutered Male": 4,
+    "Dog Individual Female": 4,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "chinese crested": {
+    "Dog Individual Neutered Male": 11,
+    "Dog Individual Male": 2,
+    "Dog Senior Citizen or Disability Spayed Female": 4,
+    "Dog Individual Spayed Female": 9,
+    "Dog Senior Citizen or Disability Neutered Male": 2,
+    "Dog Senior Citizen or Disability Female": 4,
+    "Dog Individual Female": 1
+  },
+  "llewellin setter": {
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Individual Male": 1,
+    "Dog Individual Neutered Male": 3,
+    "Dog Individual Female": 1,
+    "Dog Individual Spayed Female": 3
+  },
+  "welsh terrier": {
+    "Dog Individual Neutered Male": 3,
+    "Dog Individual Female": 1,
+    "Dog Individual Male": 1
+  },
+  "irish setter": {
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Individual Female": 1,
+    "Dog Individual Spayed Female": 5,
+    "Dog Individual Male": 1,
+    "Dog Individual Neutered Male": 1
+  },
+  "basenji": {
+    "Dog Senior Citizen or Disability Neutered Male": 3,
+    "Dog Individual Neutered Male": 3,
+    "Dog Individual Spayed Female": 2,
+    "Dog Individual Female": 2,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "anatolian shepherd": {
+    "Dog Individual Spayed Female": 2,
+    "Dog Individual Neutered Male": 2,
+    "Dog Individual Male": 1
+  },
+  "lakeland terrier": {
+    "Dog Senior Citizen or Disability Neutered Male": 2
+  },
+  "sft coat wheat terr": {
+    "Dog Senior Citizen or Disability Neutered Male": 6,
+    "Dog Individual Spayed Female": 15,
+    "Dog Individual Neutered Male": 19,
+    "Dog Individual Male": 2,
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Senior Citizen or Disability Male": 1,
+    "Dog Individual Female": 1
+  },
+  "fox terrier toy": {
+    "Dog Individual Spayed Female": 3,
+    "Dog Senior Citizen or Disability Spayed Female": 4,
+    "Dog Senior Citizen or Disability Neutered Male": 3,
+    "Dog Individual Neutered Male": 3,
+    "Dog Individual Male": 3
+  },
+  "dalmatian": {
+    "Dog Individual Spayed Female": 10,
+    "Dog Senior Citizen or Disability Neutered Male": 5,
+    "Dog Individual Neutered Male": 9,
+    "Dog Individual Male": 4,
+    "Dog Senior Citizen or Disability Spayed Female": 5,
+    "Dog Senior Citizen or Disability Female": 3
+  },
+  "dachshund mix": {
+    "Dog Individual Spayed Female": 22,
+    "Dog Individual Female": 2,
+    "Dog Senior Citizen or Disability Spayed Female": 14,
+    "Dog Senior Citizen or Disability Neutered Male": 6,
+    "Dog Individual Neutered Male": 18,
+    "Dog Individual Male": 2
+  },
+  "min aus shepherd": {
+    "Dog Individual Neutered Male": 4,
+    "Dog Individual Spayed Female": 2
+  },
+  "alas malamute": {
+    "Dog Senior Citizen or Disability Spayed Female": 3,
+    "Dog Individual Spayed Female": 6,
+    "Dog Senior Citizen or Disability Male": 1,
+    "Dog Individual Male": 3,
+    "Dog Individual Female": 1,
+    "Dog Individual Neutered Male": 8
+  },
+  "schnauzer standard": {
+    "Dog Senior Citizen or Disability Male": 2,
+    "Dog Senior Citizen or Disability Neutered Male": 7,
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Individual Spayed Female": 6,
+    "Dog Individual Neutered Male": 7,
+    "Dog Individual Male": 2
+  },
+  "glen of imaal terri": {
+    "Dog Senior Citizen or Disability Spayed Female": 1
+  },
+  "eng foxhound": {
+    "Dog Individual Spayed Female": 2,
+    "Dog Senior Citizen or Disability Neutered Male": 2,
+    "Dog Individual Neutered Male": 1
+  },
+  "great pyrenees": {
+    "Dog Individual Neutered Male": 13,
+    "Dog Senior Citizen or Disability Neutered Male": 2,
+    "Dog Individual Spayed Female": 10,
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Individual Female": 3,
+    "Dog Individual Male": 3
+  },
+  "dingo": {
+    "Dog Individual Spayed Female": 1
+  },
+  "coton de tulear": {
+    "Dog Senior Citizen or Disability Spayed Female": 8,
+    "Dog Individual Neutered Male": 6,
+    "Dog Individual Spayed Female": 8,
+    "Dog Senior Citizen or Disability Neutered Male": 5,
+    "Dog Senior Citizen or Disability Duplicate": 5,
+    "Dog Individual Female": 1,
+    "Dog Individual Male": 1,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "bull terrier": {
+    "Dog Individual Spayed Female": 7,
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Individual Neutered Male": 7,
+    "Dog Individual Male": 3,
+    "Dog Individual Female": 3
+  },
+  "chinese shar-pei": {
+    "Dog Individual Spayed Female": 9,
+    "Dog Individual Female": 2,
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Individual Male": 7,
+    "Dog Individual Neutered Male": 10,
+    "Dog Senior Citizen or Disability Neutered Male": 2
+  },
+  "borzoi": {
+    "Dog Individual Spayed Female": 1,
+    "Dog Individual Neutered Male": 3,
+    "Dog Senior Citizen or Disability Male": 1,
+    "Dog Individual Female": 2
+  },
+  "basset hound mix": {
+    "Dog Senior Citizen or Disability Neutered Male": 3,
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Individual Spayed Female": 8,
+    "Dog Individual Neutered Male": 4,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "english mastiff": {
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Individual Neutered Male": 17,
+    "Dog Individual Male": 13,
+    "Dog Individual Spayed Female": 9,
+    "Dog Individual Female": 9,
+    "Dog Senior Citizen or Disability Neutered Male": 2
+  },
+  "pointer": {
+    "Dog Individual Neutered Male": 2,
+    "Dog Individual Spayed Female": 7,
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Senior Citizen or Disability Female": 1,
+    "Dog Individual Female": 1,
+    "Dog Individual Male": 2
+  },
+  "irish terrier": {
+    "Dog Individual Spayed Female": 1
+  },
+  "bloodhound": {
+    "Dog Individual Neutered Male": 4,
+    "Dog Individual Spayed Female": 5,
+    "Dog Individual Male": 1,
+    "Dog Individual License - FREE": 1
+  },
+  "sheltand sheepdog": {
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Senior Citizen or Disability Spayed Female": 1
+  },
+  "bullmastiff": {
+    "Dog Individual Neutered Male": 10,
+    "Dog Individual Spayed Female": 13,
+    "Dog Individual Male": 7,
+    "Dog Individual Female": 5,
+    "Dog Senior Citizen or Disability Female": 1,
+    "Dog Senior Citizen or Disability Spayed Female": 1
+  },
+  "aus terrier": {
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Individual Neutered Male": 3,
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Individual Spayed Female": 1,
+    "Dog Individual Male": 1
+  },
+  "belg malinois": {
+    "Dog Individual Spayed Female": 7,
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Individual Neutered Male": 2,
+    "Dog Individual License - FREE": 5,
+    "Dog Individual Male": 1,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "border terrier": {
+    "Dog Individual Neutered Male": 6,
+    "Dog Senior Citizen or Disability Spayed Female": 6,
+    "Dog Individual Spayed Female": 7,
+    "Dog Senior Citizen or Disability Neutered Male": 3,
+    "Dog Individual Female": 1,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "morkie": {
+    "Dog Individual Spayed Female": 30,
+    "Dog Senior Citizen or Disability Spayed Female": 14,
+    "Dog Individual Neutered Male": 27,
+    "Dog Individual Male": 10,
+    "Dog Senior Citizen or Disability Neutered Male": 9,
+    "Dog Senior Citizen or Disability Male": 2,
+    "Dog Individual Female": 3,
+    "Dog Senior Citizen or Disability Female": 2
+  },
+  "shiloh ger shepherd": {
+    "Dog Senior Citizen or Disability Male": 1,
+    "Dog Individual Neutered Male": 2,
+    "Dog Individual Female": 2,
+    "Dog Individual Male": 2,
+    "Dog Individual Spayed Female": 1
+  },
+  "old eng bulldog": {
+    "Dog Individual Spayed Female": 7,
+    "Dog Individual Neutered Male": 11,
+    "Dog Senior Citizen or Disability Spayed Female": 3,
+    "Dog Individual Male": 8,
+    "Dog Individual Female": 2,
+    "Dog Senior Citizen or Disability Neutered Male": 1
+  },
+  "rottweiler mix": {
+    "Dog Individual Female": 3,
+    "Dog Individual Neutered Male": 17,
+    "Dog Individual Spayed Female": 16,
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Senior Citizen or Disability Male": 2,
+    "Dog Individual Male": 2,
+    "Dog Senior Citizen or Disability Neutered Male": 1
+  },
+  "silky terrier": {
+    "Dog Individual Neutered Male": 2,
+    "Dog Senior Citizen or Disability Neutered Male": 4,
+    "Dog Individual Spayed Female": 7,
+    "Dog Senior Citizen or Disability Spayed Female": 4,
+    "Dog Senior Citizen or Disability Duplicate": 1
+  },
+  "braque francais": {
+    "Dog Individual Spayed Female": 1
+  },
+  "rhodesian ridgeback": {
+    "Dog Individual Neutered Male": 11,
+    "Dog Individual Male": 4,
+    "Dog Individual Female": 3,
+    "Dog Individual Spayed Female": 5,
+    "Dog Senior Citizen or Disability Spayed Female": 1
+  },
+  "mastiff tibetan": {
+    "Dog Individual Neutered Male": 1,
+    "Dog Individual Spayed Female": 1
+  },
+  "mastiff": {
+    "Dog Individual Neutered Male": 17,
+    "Dog Senior Citizen or Disability Neutered Male": 4,
+    "Dog Individual Female": 6,
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Individual Spayed Female": 14,
+    "Dog Individual Male": 8
+  },
+  "argentino dogo": {
+    "Dog Individual Female": 1
+  },
+  "bearded collie": {
+    "Dog Individual Neutered Male": 4,
+    "Dog Senior Citizen or Disability Spayed Female": 4,
+    "Dog Individual Spayed Female": 1,
+    "Dog Senior Citizen or Disability Neutered Male": 1
+  },
+  "wirehair pt griffon": {
+    "Dog Senior Citizen or Disability Male": 1,
+    "Dog Individual Neutered Male": 1,
+    "Dog Individual Female": 1
+  },
+  "jack russel terrier": {
+    "Dog Senior Citizen or Disability Neutered Male": 12,
+    "Dog Individual Male": 6,
+    "Dog Individual Neutered Male": 39,
+    "Dog Senior Citizen or Disability Spayed Female": 10,
+    "Dog Senior Citizen or Disability Male": 2,
+    "Dog Individual Spayed Female": 28,
+    "Dog Individual Female": 7,
+    "Dog Senior Citizen or Disability Female": 3
+  },
+  "am toy terrier": {
+    "Dog Senior Citizen or Disability Neutered Male": 3,
+    "Dog Individual Spayed Female": 3,
+    "Dog Individual Female": 1
+  },
+  "am staff terrier": {
+    "Dog Individual Neutered Male": 8,
+    "Dog Individual Spayed Female": 12,
+    "Dog Senior Citizen or Disability Female": 2,
+    "Dog Individual Male": 6,
+    "Dog Individual Female": 5,
+    "Dog Senior Citizen or Disability Neutered Male": 3,
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "akita mix": {
+    "Dog Senior Citizen or Disability Male": 1,
+    "Dog Individual Neutered Male": 3,
+    "Dog Individual Spayed Female": 5
+  },
+  "sussex spaniel": {
+    "Dog Individual Neutered Male": 1
+  },
+  "flat coated retriev": {
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Individual Spayed Female": 2,
+    "Dog Individual Female": 1,
+    "Dog Individual Neutered Male": 2
+  },
+  "fox terrier smooth": {
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Individual Male": 1,
+    "Dog Individual Spayed Female": 1,
+    "Dog Individual Neutered Male": 2,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "bulldog": {
+    "Dog Individual Neutered Male": 8,
+    "Dog Individual Spayed Female": 4,
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Senior Citizen or Disability Male": 1,
+    "Dog Individual Female": 4,
+    "Dog Individual Male": 3
+  },
+  "malti-poo": {
+    "Dog Individual Neutered Male": 20,
+    "Dog Individual Spayed Female": 8,
+    "Dog Senior Citizen or Disability Spayed Female": 7,
+    "Dog Individual Female": 4,
+    "Dog Senior Citizen or Disability Neutered Male": 5,
+    "Dog Individual Male": 2,
+    "Dog Senior Citizen or Disability Female": 1
+  },
+  "great dane mix": {
+    "Dog Individual Spayed Female": 6,
+    "Dog Individual Neutered Male": 9,
+    "Dog Senior Citizen or Disability Spayed Female": 3,
+    "Dog Senior Citizen or Disability Neutered Male": 3
+  },
+  "nova scotia duck to": {
+    "Dog Individual Spayed Female": 2,
+    "Dog Individual Neutered Male": 1,
+    "Dog Individual Female": 1
+  },
+  "belg tervuren": {
+    "Dog Senior Citizen or Disability Male": 2,
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Senior Citizen or Disability Spayed Female": 1
+  },
+  "bluetick coonhound": {
+    "Dog Individual Spayed Female": 6,
+    "Dog Senior Citizen or Disability Neutered Male": 4,
+    "Dog Individual Neutered Male": 4,
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Individual Male": 1,
+    "Dog Individual Female": 1
+  },
+  "eng shepherd": {
+    "Dog Individual Neutered Male": 3,
+    "Dog Individual Spayed Female": 5,
+    "Dog Individual Female": 1,
+    "Dog Individual Male": 1
+  },
+  "staffordshire terri": {
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Individual Spayed Female": 4,
+    "Dog Individual Male": 1,
+    "Dog Senior Citizen or Disability Female": 1,
+    "Dog Individual Neutered Male": 1,
+    "Dog Individual Female": 2
+  },
+  "norwich terrier": {
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Individual Neutered Male": 1,
+    "Dog Individual Male": 1
+  },
+  "schnauzer giant": {
+    "Dog Senior Citizen or Disability Female": 1,
+    "Dog Senior Citizen or Disability Male": 3,
+    "Dog Individual Spayed Female": 1,
+    "Dog Individual Male": 1
+  },
+  "plott hound": {
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Individual Spayed Female": 2,
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Individual Neutered Male": 1
+  },
+  "dutch shepherd": {
+    "Dog Individual License - FREE": 1,
+    "Dog Senior Citizen or Disability Female": 1,
+    "Dog Individual Spayed Female": 1,
+    "Dog Individual Male": 1,
+    "Dog Individual Female": 1
+  },
+  "cane corso": {
+    "Dog Individual Neutered Male": 8,
+    "Dog Individual Spayed Female": 7,
+    "Dog Individual Male": 8,
+    "Dog Individual Female": 4,
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "pudelpointer": {
+    "Dog Individual Spayed Female": 2,
+    "Dog Individual Male": 1
+  },
+  "redbone coonhound": {
+    "Dog Individual Spayed Female": 5,
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Senior Citizen or Disability Male": 3,
+    "Dog Individual Female": 2,
+    "Dog Individual Neutered Male": 7,
+    "Dog Senior Citizen or Disability Neutered Male": 2
+  },
+  "affenpinscher": {
+    "Dog Individual Neutered Male": 1,
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Individual Spayed Female": 1
+  },
+  "boykin spaniel": {
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Individual Neutered Male": 1
+  },
+  "queensland heeler": {
+    "Dog Individual Neutered Male": 1
+  },
+  "teddy roose terrier": {
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Senior Citizen or Disability Neutered Male": 2,
+    "Dog Individual Male": 1,
+    "Dog Senior Citizen or Disability Female": 3,
+    "Dog Individual Female": 1,
+    "Dog Individual Neutered Male": 1
+  },
+  "finnish lapphund": {
+    "Dog Individual Neutered Male": 1,
+    "Dog Senior Citizen or Disability Spayed Female": 1
+  },
+  "ibizan hound mix": {
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "eng toy terrier": {
+    "Dog Individual Female": 3
+  },
+  "toy fox terier": {
+    "Dog Individual Spayed Female": 1
+  },
+  "eng toy spaniel": {
+    "Dog Individual Female": 1,
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Individual Male": 1
+  },
+  "tibetan terrier": {
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Individual Spayed Female": 2,
+    "Dog Individual Neutered Male": 1
+  },
+  "french spaniel": {
+    "Dog Individual Spayed Female": 1
+  },
+  "petit basset griffo": {
+    "Dog Senior Citizen or Disability Neutered Male": 2
+  },
+  "eng coonhound": {
+    "Dog Individual Male": 2,
+    "Dog Individual Spayed Female": 7,
+    "Dog Individual Neutered Male": 2
+  },
+  "chien franc bl&oran": {
+    "Dog Senior Citizen or Disability Neutered Male": 1
+  },
+  "am water spaniel": {
+    "Dog Senior Citizen or Disability Spayed Female": 2
+  },
+  "griffon nivernais": {
+    "Dog Senior Citizen or Disability Spayed Female": 1
+  },
+  "feist treeing": {
+    "Dog Individual Neutered Male": 1
+  },
+  "clumber spaniel": {
+    "Dog Individual Neutered Male": 1,
+    "Dog Individual Spayed Female": 1
+  },
+  "dogue de bordeaux": {
+    "Dog Individual Neutered Male": 3,
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Individual Female": 1,
+    "Dog Individual Male": 4
+  },
+  "polish hound": {
+    "Dog Individual Spayed Female": 1
+  },
+  "irish wolfhound": {
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Senior Citizen or Disability Male": 1,
+    "Dog Individual Female": 1,
+    "Dog Individual Neutered Male": 2,
+    "Dog Individual Spayed Female": 1
+  },
+  "alas klee kai": {
+    "Dog Individual Neutered Male": 1
+  },
+  "scottish deerhound": {
+    "Dog Individual Neutered Male": 2,
+    "Dog Individual Spayed Female": 1
+  },
+  "w shepherd /ger sheph": {
+    "Dog Individual Neutered Male": 3
+  },
+  ".": {
+    "Dog Senior Citizen or Disability Neutered Male": 2,
+    "Dog Senior Citizen or Disability Spayed Female": 1,
+    "Dog Individual Neutered Male": 4,
+    "Dog Individual Spayed Female": 5,
+    "Dog Individual Female": 3,
+    "Dog Individual Male": 1,
+    "Dog Senior Citizen or Disability Male": 2
+  },
+  "black forest hound": {
+    "Dog Senior Citizen or Disability Spayed Female": 1
+  },
+  "treeing cur": {
+    "Dog Senior Citizen or Disability Spayed Female": 1
+  },
+  "ger pinscher": {
+    "Dog Individual Male": 1,
+    "Dog Individual Neutered Male": 1
+  },
+  "poodle med": {
+    "Dog Senior Citizen or Disability Spayed Female": 2,
+    "Dog Individual Neutered Male": 1
+  },
+  "bouvier des flandre": {
+    "Dog Individual Neutered Male": 1,
+    "Dog Individual Spayed Female": 1
+  },
+  "catalan sheepdog": {
+    "Dog Senior Citizen or Disability Neutered Male": 1
+  },
+  "alpine dachsbracke": {
+    "Dog Individual Spayed Female": 1
+  },
+  "iceland dog": {
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Individual Neutered Male": 1
+  },
+  "dunker": {
+    "Dog Individual Male": 1,
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "gr swiss mtn dog": {
+    "Dog Individual Neutered Male": 2,
+    "Dog Individual Male": 2,
+    "Dog Individual Female": 1,
+    "Dog Individual Spayed Female": 1
+  },
+  "kooikerhondje": {
+    "Dog Individual Spayed Female": 1,
+    "Dog Individual Male": 1
+  },
+  "beagle harrier": {
+    "Dog Individual Neutered Male": 1
+  },
+  "catahoula leopard d": {
+    "Dog Individual Spayed Female": 4,
+    "Dog Individual Neutered Male": 3,
+    "Dog Senior Citizen or Disability Female": 1,
+    "Dog Individual Male": 1,
+    "Dog Individual Female": 1
+  },
+  "welsh springer span": {
+    "Dog Individual Spayed Female": 1,
+    "Dog Individual Male": 1,
+    "Dog Senior Citizen or Disability Female": 1
+  },
+  "field spaniel": {
+    "Dog Individual Spayed Female": 1
+  },
+  "kerry blue terrier": {
+    "Dog Individual Neutered Male": 1
+  },
+  "mountain feist": {
+    "Dog Individual Spayed Female": 1
+  },
+  "ger wirehair pointe": {
+    "Dog Individual Neutered Male": 1,
+    "Dog Senior Citizen or Disability Spayed Female": 2
+  },
+  "canadian eskimo dog": {
+    "Dog Individual Male": 1,
+    "Dog Individual Neutered Male": 1
+  },
+  "presa canario": {
+    "Dog Senior Citizen or Disability Male": 1
+  },
+  "fila brasileiro": {
+    "Dog Individual Neutered Male": 1
+  },
+  "cannan dog": {
+    "Dog Individual Spayed Female": 1
+  },
+  "patterdale terrier": {
+    "Dog Individual Neutered Male": 1
+  },
+  "picardy shepherd": {
+    "Dog Senior Citizen or Disability Neutered Male": 1
+  },
+  "tibetan spaniel": {
+    "Dog Senior Citizen or Disability Male": 2,
+    "Dog Individual Spayed Female": 1,
+    "Dog Senior Citizen or Disability Spayed Female": 1
+  },
+  "spinone italiano": {
+    "Dog Individual Spayed Female": 1,
+    "Dog Individual Female": 1,
+    "Dog Individual Male": 1
+  },
+  "leonberger": {
+    "Dog Individual Female": 1,
+    "Dog Individual Neutered Male": 1
+  },
+  "denmark feist": {
+    "Dog Individual License - FREE": 1,
+    "Dog Individual Female": 1,
+    "Dog Individual Spayed Female": 1
+  },
+  "owczrek podhalan": {
+    "Dog Individual Male": 1
+  },
+  "japanese spitz": {
+    "Dog Senior Citizen or Disability Neutered Male": 1
+  },
+  "irish red&white set": {
+    "Dog Individual Spayed Female": 1
+  },
+  "jamthund": {
+    "Dog Senior Citizen or Disability Spayed Female": 1
+  },
+  "barbet": {
+    "Dog Individual Male": 1,
+    "Dog Individual Neutered Male": 1
+  },
+  "ger spitz": {
+    "Dog Senior Citizen or Disability Male": 1,
+    "Dog Individual Neutered Male": 3,
+    "Dog Individual Spayed Female": 1
+  },
+  "aus kelpie": {
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Individual Male": 1,
+    "Dog Individual Spayed Female": 2
+  },
+  "min bull terrier": {
+    "Dog Individual Spayed Female": 1
+  },
+  "polish lowlnd sheep": {
+    "Dog Individual Spayed Female": 1
+  },
+  "maremma abbruze": {
+    "Dog Individual Male": 1
+  },
+  "bolognese": {
+    "Dog Senior Citizen or Disability Neutered Male": 1
+  },
+  "belg shepherd": {
+    "Dog Individual Male": 1
+  },
+  "karelian bear dog": {
+    "Dog Individual Neutered Male": 1
+  },
+  "halls heeler": {
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Senior Citizen or Disability Spayed Female": 1
+  },
+  "pyrenean mastiff": {
+    "Dog Individual Neutered Male": 1
+  },
+  "neapolitan mastiff": {
+    "Dog Individual Female": 1,
+    "Dog Individual License Duplicate": 1,
+    "Dog Individual Neutered Male": 1
+  },
+  "bergamasco": {
+    "Dog Individual Male": 1
+  },
+  "boerboel": {
+    "Dog Senior Citizen or Disability Female": 1,
+    "Dog Individual Male": 1
+  },
+  "pumi": {
+    "Dog Individual Spayed Female": 1
+  },
+  "am black&tan coonho": {
+    "Dog Senior Citizen or Disability Neutered Male": 1,
+    "Dog Individual Neutered Male": 3,
+    "Dog Individual Spayed Female": 1,
+    "Dog Senior Citizen or Disability Female": 1
+  },
+  "carolina dog": {
+    "Dog Individual Spayed Female": 1
+  },
+  "jindo": {
+    "Dog Individual Spayed Female": 1
+  }
+}
